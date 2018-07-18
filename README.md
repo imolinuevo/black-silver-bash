@@ -11,5 +11,5 @@ This is a bash script for automatic PDF form field replacing.
 ## Example
 
 ```
-bash replace_pdf.sh admin in/invoice_template out/invoice
+bash replace_pdf.sh admin in/invoice_template out/invoice "FECHA-test TOTAL-100"
 ```
